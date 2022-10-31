@@ -1,6 +1,6 @@
 # Diversity-and-Inclusion
 
-Created interactive reports using diversity and inclusion data from Pharma Group for two fiscal years (FY): 2020 and 2021. The raw data contained 500 records and it was cleaned, formatted and manipulated using MS Excel. Power BI desktop was used to analyse and create the reports. Pertinent KPIs were also defined and visualised in hiring, promotions, performance and turnovers.
+Created interactive reports using diversity and inclusion data from Pharma Group for two fiscal years (FY): 2020 and 2021. The raw data contained 500 records and it was cleaned, formatted and manipulated using MS Excel. Power BI desktop was used to analyse and create the reports. Dax functions were also utilized in this project to highlight certain measures and make analysis and visualization easier to understand. Pertinent KPIs were also defined and visualised in hiring, promotions, performance and turnovers.
 Some of these are:
 - Number of men and women
 - Number of leavers
